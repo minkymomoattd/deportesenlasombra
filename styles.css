@@ -1,0 +1,32 @@
+.custom-navbar {
+    padding: 10px 20px;
+}
+
+.custom-navbar .nav-item {
+    margin: 0 40px;
+}
+
+.custom-navbar {
+    background-color: #09223b; /* Change to any color */
+}
+
+.custom-navbar .navbar-brand,
+.custom-navbar .nav-link {
+    color: rgb(255, 136, 0) !important; /* Change text color */
+}
+
+.custom-navbar .nav-link:hover {
+    color: #FFD700 !important; /* Change hover color */
+}
+
+.custom-navbar .dropdown-menu {
+    background-color: #09223b; /* Change dropdown background */
+}
+
+.custom-navbar .dropdown-item {
+    color: white; /* Dropdown text color */
+}
+
+.custom-navbar .dropdown-item:hover {
+    background-color: rgb(255, 136, 0); /* Hover color */
+}
