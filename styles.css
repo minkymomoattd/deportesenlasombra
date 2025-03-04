@@ -30,3 +30,6 @@
 .custom-navbar .dropdown-item:hover {
     background-color: rgb(255, 136, 0); /* Hover color */
 }
+body {
+    padding-top: 50px; /* Adjust according to the navbar height */
+}
